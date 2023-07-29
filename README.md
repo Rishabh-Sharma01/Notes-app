@@ -1,6 +1,8 @@
 # React Notes App
 By: Rishabh Sharma
 
+Link:https://notes-app-rsv.netlify.app/
+
 Web App that can add and delete notes
 ## Technology Used:
 1. React.js
